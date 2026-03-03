@@ -7,7 +7,7 @@ let descontos;
 let salarioliquido;
 
 
-salariobruto = leia.questionFloat("Digite Seu Salário bruto R$: ");
+salariobruto = leia.questionFloat("Digite Seu Salario bruto R$: ");
 adicionalnoturno= leia.questionFloat(`Digite Seu Adicional R$: `);
 extras = leia.questionFloat("Digite horas Extras R$: ");
 descontos = leia.questionFloat("Digite Seu Desconto R$: ");
